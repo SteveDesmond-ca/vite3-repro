@@ -1,0 +1,13 @@
+{
+	"name": "vite3-repro",
+	"version": "1.0.0",
+	"description": "Minimal reproduction of multiple entry point regression",
+	"license": "MIT",
+	"private": true,
+	"devDependencies": {
+		"vite": "2.9.14"
+	},
+	"scripts": {
+		"vite": "vite build ."
+	}
+}
